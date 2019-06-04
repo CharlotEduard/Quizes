@@ -14,7 +14,7 @@ var questions = [
     ["(Uece 2018)  O número de divisores inteiros e positivos do número",
 
       "8", "14 ", "10","12",
-      "", "", "", "", "", "", "",
+      "NDA", "", "", "", "", "", "",
 
       "1"
 
@@ -23,7 +23,7 @@ var questions = [
     ["(Espm 2017)  Dividindo-se o número natural   por   ob¬tém-se quociente   e resto   Aumentando¬-se   unidades no dividendo e mantendo-se o divisor, o quociente aumenta de   uni¬dade e a divisão é exata. Sabendo-se que podemos afirmar que os divisores primos de são: ",
     
       "2 e 19.", "2, 3 e 13 ", "3 e 17","3, 5 e 7","5 e 11",
-      "", "", "", "", "", "", "",
+      "", "", "", "", "", "", 
 
       "1"
 
@@ -41,7 +41,7 @@ var questions = [
     ["(Fac. Albert Einstein - Medicin 2017)  Um torneio de xadrez terá alunos de   escolas. Uma das escolas levará   alunos; outra,   alunos; e outra,   alunos. Esses alunos serão divididos em grupos, de modo que cada grupo tenha representantes das três escolas, e o número de alunos de cada escola seja o mesmo em cada grupo. Dessa maneira, o maior número de grupos que podem ser formados é ",
     
       "12", "23 ", "46","69",
-      "", "", "", "", "", "", "",
+      "NDA", "", "", "", "", "", "",
 
       "1"
 
@@ -60,7 +60,7 @@ var questions = [
     ["(Pucrj 2016)  Assinale a opção correta",
     
       "", " ", " "," ","",
-      "", "img/a1.png", "img/a2.png", "img/a3.png", "img/a4.png", "img/a5.png", "",
+      "", "img/a1.png", "img/a2.png", "img/a3.png", "img/a4.png", "img/a5.png",
 
       "3"
 
