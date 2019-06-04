@@ -34,7 +34,7 @@ function quit() {
     q.style.display = "none";
     var f = score / tques;
      //Salva os acertos das questoes
-     localStorage.setItem("T2", (f * 100));
+     localStorage.setItem("T12", (f * 100));
     
      //redireciona para a pagina home
      window.location.replace("/index.html");

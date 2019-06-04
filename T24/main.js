@@ -36,7 +36,7 @@ function quit() {
     //result.textContent = "Sua pontuação foi de: " + (f * 100).toFixed(2) + "%";
     
     //Salva os acertos das questoes
-    localStorage.setItem("T1", (f * 100));
+    localStorage.setItem("T24", (f * 100));
     
     //redireciona para a pagina home
     window.location.replace("/index.html");
