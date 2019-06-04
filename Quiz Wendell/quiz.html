@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Questionário</title>
+</head>
+
+<body>
+    <div class="container position-relative">
+
+        <div class="align-middle font-weight-bold p-3">
+            <h1>Questionário</h1>
+        </div>
+
+        <div id="quiz">
+
+            <div class="text-justify bg-dark text-white rounded">
+
+                <div id="question"></div>
+                <div class="d-flex justify-content-center align-items-center">
+                    <img id="imgQuestion" class="align-middle" />
+                </div>
+            </div>
+
+            <div class="p-2 list-group ">
+                <label class="option"><input type="radio" name="option" value="1"/><img id="imgAlt1" ><span class="align-middle" id="option1" ></span></label>
+                <label class="option"><input type="radio" name="option" value="2"/><img id="imgAlt2" ><span class="align-middle" id="option2" ></span></label>
+                <label class="option"><input type="radio" name="option" value="3"/><img id="imgAlt3" ><span class="align-middle" id="option3" ></span></label>
+                <label class="option"><input type="radio" name="option" value="4"/><img id="imgAlt4" ><span class="align-middle" id="option4" ></span></label>
+                <label class="option"><input type="radio" name="option" value="5"/><img id="imgAlt5" ><span class="align-middle" id="option5" ></span></label>
+            </div>
+
+        </div>
+
+        <div class="position-sticky p-25 text-justify bg-dark text-white rounded" id="result" style="display:none"></div>
+
+        <div class="fixed-bottom bg-light">
+            <button class="btn btn-danger" id="quit" onclick="quit();">Desistir</button>
+            <button class="btn btn-dark" id="next" onclick="nextques();">Proximo</button>
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript" src="questions.js"></script>
+<script type="text/javascript" src="main.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</html>
