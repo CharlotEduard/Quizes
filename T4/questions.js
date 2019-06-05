@@ -21,8 +21,8 @@ var questions = [
      ],
 
      [".(Pucrj 2017)  Entre as alternativas abaixo, assinale a de menor valor: ",
-        "A)3(-1)^3", "B)6^8", "C)3^1", "D)1^6","E)8^10",
-        "", "", "", "", "","",
+        "", "", "", "","",
+        "", "img/quest4/A.jpg", "img/quest4/B.jpg", "img/quest4/C.jpg", "img/quest4/D.jpg","img/quest4/E.jpg",
         "1"
       ],
 
@@ -33,8 +33,8 @@ var questions = [
        ],
 
        [".(Ufrgs 2015)  A expressão (0,125)^15 é equivalente a ",
-        "A)5^45.", "B)5^(-45)", "C)2^45.", "D)2^(-45).","E)(-2)^45.",
-        "", "", "", "", "","",
+        "", "", "", "","",
+        "", "img/quest6/A.jpg", "img/quest6/B.jpg", "img/quest6/C.jpg", "img/quest6/D.jpg","img/quest6/E.jpg",
         "4"
         ],
 
@@ -45,8 +45,8 @@ var questions = [
          ],
 
          [".(Ufrgs 2013)  Um adulto humano saudável abriga cerca de 100 bilhões de bactérias, somente em seu trato digestivo.Esse número de bactérias pode ser escrito como",
-            "A)10^9", "B)10^10", "C)10^11", "D)10^12.","E)10^13.",
-            "", "", "", "", "","",
+            "", "", "", ".","",
+            "", "img/quest8/A.jpg", "img/quest8/B.jpg", "img/quest8/C.jpg", "img/quest8/D.jpg","img/quest8/E.jpg",
             "3"
           ],
 
@@ -57,8 +57,8 @@ var questions = [
            ],
 
            [".(Ufrgs 2008)  Em texto publicado na Folha de S. Paulo, em 16/09/2007, o físico Marcelo Gleiser escreveu que “átomos têm diâmetros de aproximadamente um décimo de bilionésimo de metro”.Escrito em potência de 10, um décimo de bilionésimo é",
-            "A)10^(-8).", "B)10^(-9)", "C)10^(-10)", "D)10^(-11).","E)10^(-12)",
-            "", "", "", "", "","",
+            "", "", "", "","",
+            "", "img/quest10/A.jpg", "img/quest10/B.jpg", "img/quest10/C.jpg", "img/quest10/D.jpg","img/quest10/E.jpg",
             "3"
             ],
 ]
