@@ -1,3 +1,17 @@
 #back{
     background-image: url(imggeral/matematica_enem.jpg);
+    color:#dcdcdc;
+}
+.black{
+    background-Color: black;
+}
+.img{
+    width: 200px;  
+}
+.footer{
+	background:#363636;;
+	color: #EBEBEB;
+	padding: 20px 0;
+	text-align: center;
+	font-weight: 100;
 }
