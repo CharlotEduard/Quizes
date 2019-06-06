@@ -81,7 +81,7 @@ window.onload = function () {
                 // Adicionar as colunas dos temas de matematica
                 type: "column",
                 dataPoints: [
-                    { label: "Porcentagem Geral", y: T1 },
+                    { label: "Porcentagem", y: T1 },
                     { label: "Porcentagem Enem", y: T2 },
                     { label: "Razão Geral", y: T3 },
                     { label: "Razão Enem", y: T4 },
