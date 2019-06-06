@@ -113,7 +113,7 @@ window.onload = function () {
                     { label: "Circunferencia", y: T30 },
                     { label: "Razão Trigonometrica", y: T31 },
                     { label: "Lei de Seno e Cosseno", y: T32 },
-                    { label: "PA", y: T33 }
+                    { label: "Progressao Aritmética", y: T33 }
                 ]
             }
         ]
