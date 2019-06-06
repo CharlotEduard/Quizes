@@ -1,6 +1,6 @@
 var questions = [
 
-    [".(Espm 2018)  Para que o número   se torne um cubo perfeito, devemos",
+    [".(Espm 2018)  Para que o número 64.800 se torne um cubo perfeito, devemos",
         "A)multiplicá-lo por 30", "B)dividi-lo por 60", "C)multiplicá-lo por 90", "D)dividi-lo por 150","E)multiplicá-lo por 15",
         "", "", "", "", "","",
         "3"
