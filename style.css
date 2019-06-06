@@ -2,7 +2,16 @@
     background-image: url(imggeral/matematica_enem.jpg);
 }
 .black{
-    background-Color:#4F4F4F;
+	background-Color:#363636;
+	width:370px;
+	margin-left:20px;
+	margin-right:20px;
+}
+.testin{
+	background-Color:#363636;
+	width:380px;
+	margin-left:470px;
+
 }
 .img{
     width: 200px;  
