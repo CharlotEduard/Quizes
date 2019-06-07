@@ -74,7 +74,7 @@ window.onload = function () {
             text: "Meu desempenho"
         },
         axisX: {
-            title: ""
+            title: "Seu desempenho é mostrado em porcentagem"
         },
         axisY:{
             maximum: 100,
