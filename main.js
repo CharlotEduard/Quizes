@@ -76,6 +76,9 @@ window.onload = function () {
         axisX: {
             title: "Areas da matematica"
         },
+        axisY:{
+            maximum: 100,
+          },
         data: [
             {
                 // Adicionar as colunas dos temas de matematica
