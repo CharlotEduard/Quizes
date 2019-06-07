@@ -74,7 +74,7 @@ window.onload = function () {
             text: "Meu desempenho"
         },
         axisX: {
-            title: "Areas da matematica"
+            title: ""
         },
         axisY:{
             maximum: 100,
@@ -88,8 +88,8 @@ window.onload = function () {
                     { label: "Porcentagem Enem", y: T2 },
                     { label: "Razão Geral", y: T3 },
                     { label: "Razão Enem", y: T4 },
-                    { label: "Potencia Geral", y: T5 },
-                    { label: "Potencia Parte2", y: T6 },
+                    { label: "Potencia Gera l", y: T5 },
+                    { label: "Potencia Parte 2", y: T6 },
                     { label: "Radicição Parte 1", y: T7 },
                     { label: "Radicição Parte 2", y: T8 },
                     { label: "Operação basica Geral", y: T9 },
