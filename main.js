@@ -70,11 +70,14 @@ document.getElementById("T33").innerHTML = T33 + "%";
 window.onload = function () {
     var options = {
         animationEnabled: true,
+        theme: "dark2", //"light1", "dark1", "light2"
+        labelAutoFit: true,
         title: {
             text: "Meu desempenho"
         },
         axisX: {
-            title: "Seu desempenho é mostrado em porcentagem"
+            title: "Seu desempenho é mostrado em porcentagem",
+            labelAutoFit: true,
         },
         axisY:{
             maximum: 100,
