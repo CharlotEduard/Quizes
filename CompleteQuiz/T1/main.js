@@ -39,7 +39,7 @@ function quit() {
     localStorage.setItem("T1", (f * 100));
 
     //redireciona para a pagina home
-    window.location.replace("Quizes/index.html");
+    window.location.replace("../../index.html");
 }
 
 function give_ques(quesindex) {
