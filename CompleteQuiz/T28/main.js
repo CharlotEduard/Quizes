@@ -61,22 +61,22 @@ var quesindex = 0;
 function quit() {
 
     quiz.style.display = 'none';
-    
+
     result.style.display = '';
-    
+
     q.style.display = "none";
-    
+
     var f = score / tques;
-    
+
     //Salva os acertos das questoes
-    
+
     localStorage.setItem("T28", (f * 100));
-    
-    
+
+
     //redireciona para a pagina home
-    
-    window.location.replace("/index.html");
- }
+
+    window.location.replace("/Quizes/index.html");
+}
 
 
 function give_ques(quesindex) {
@@ -95,7 +95,7 @@ function give_ques(quesindex) {
 
     opt5.textContent = questions[quesindex][5];
 
-    
+
 
     //chama as imagens da questão
 

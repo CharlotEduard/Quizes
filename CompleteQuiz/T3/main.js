@@ -1,4 +1,4 @@
-var quiz=document.getElementById("quiz");
+var quiz = document.getElementById("quiz");
 
 var ques = document.getElementById("question");
 
@@ -23,29 +23,29 @@ var q = document.getElementById('quit');
 
 var tques = questions.length;
 
-var score=0;
+var score = 0;
 
-var quesindex=0;
+var quesindex = 0;
 
-function quit(){
-    quiz.style.display="none"
-    result.style.display='';
-    q.style.display="none";
-    var f = score/tques;
+function quit() {
+    quiz.style.display = "none"
+    result.style.display = '';
+    q.style.display = "none";
+    var f = score / tques;
     //Salva os acertos das questoes
     localStorage.setItem("T3", (f * 100));
-    
+
     //redireciona para a pagina home
-    window.location.replace("/index.html");
+    window.location.replace("/Quizes/index.html");
 }
 
 
-function give_ques(quesindex){
-    ques.textContent=quesindex + 1 + "." + questions[quesindex][0];
-    opt1.textContent=questions[quesindex][1];
-    opt2.textContent=questions[quesindex][2];
-    opt3.textContent=questions[quesindex][3];
-    opt4.textContent=questions[quesindex][4];
+function give_ques(quesindex) {
+    ques.textContent = quesindex + 1 + "." + questions[quesindex][0];
+    opt1.textContent = questions[quesindex][1];
+    opt2.textContent = questions[quesindex][2];
+    opt3.textContent = questions[quesindex][3];
+    opt4.textContent = questions[quesindex][4];
     opt5.textContent = questions[quesindex][5];
 
     imgQuestion.src = questions[quesindex][6];
@@ -54,13 +54,13 @@ function give_ques(quesindex){
     imgAlt3.src = questions[quesindex][9];
     imgAlt4.src = questions[quesindex][10];
     imgAlt5.src = questions[quesindex][11];
-    
+
     return;
 }
 
 give_ques(0);
 
-function nextques(){
+function nextques() {
 
     var selected_ans = document.querySelector('input[type=radio]:checked');
     if (!selected_ans) {
@@ -89,5 +89,5 @@ function nextques(){
 
 
 
-    
+
 }

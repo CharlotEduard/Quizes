@@ -33,12 +33,12 @@ function quit() {
     result.style.display = '';
     q.style.display = "none";
     var f = score / tques;
-     //Salva os acertos das questoes
-     localStorage.setItem("T15", (f * 100));
-    
-     //redireciona para a pagina home
-     window.location.replace("/index.html");
- }
+    //Salva os acertos das questoes
+    localStorage.setItem("T15", (f * 100));
+
+    //redireciona para a pagina home
+    window.location.replace("/Quizes/index.html");
+}
 
 function give_ques(quesindex) {
     //chama os textos da questão
@@ -48,7 +48,7 @@ function give_ques(quesindex) {
     opt3.textContent = questions[quesindex][3];
     opt4.textContent = questions[quesindex][4];
     opt5.textContent = questions[quesindex][5];
-    
+
     //chama as imagens da questão
     imgQuestion.src = questions[quesindex][6];
     imgAlt1.src = questions[quesindex][7];

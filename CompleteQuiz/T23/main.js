@@ -33,12 +33,12 @@ function quit() {
     result.style.display = '';
     q.style.display = "none";
     var f = score / tques;
-     //Salva os acertos das questoes
-     localStorage.setItem("T23", (f * 100));
-    
-     //redireciona para a pagina home
-     window.location.replace("/index.html");
- }
+    //Salva os acertos das questoes
+    localStorage.setItem("T23", (f * 100));
+
+    //redireciona para a pagina home
+    window.location.replace("/Quizes/index.html");
+}
 
 function give_ques(quesindex) {
     //chama os textos da questão
