@@ -7,7 +7,7 @@ var questions = [
     ],
     ["(Uerj 2018)  No mapa mensal de um hospital, foi registrado o total de 800 cirurgias ortopédicas, sendo 440 em homens, conforme os gráficos abaixo. De acordo com esses dados, o número total de cirurgias de fêmur realizadas em mulheres foi:  ",
         " 144", " 162", " 184", " 190"," Nem uma das alternativas",
-        "img/IMG.png", "", "", "", "","",
+        "img/img.png", "", "", "", "","",
         "3"
     ],
 
