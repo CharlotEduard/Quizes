@@ -2,7 +2,7 @@ var questions = [
   
     ["(Enem 2018)  O Salão do Automóvel de São Paulo é um evento no qual vários fabricantes expõem seus modelos mais recentes de veículos, mostrando, principalmente, suas inovações em design e tecnologia.",
         "", "", "", "","",
-        "img/ex1.JPG", "img/aa1.JPG", "img/ab1.JPG", "img/ac1.JPG", "img/ad1.JPG","img/ae1.JPG",
+        "img/ex1.jpg", "img/aa1.jpg", "img/ab1.jpg", "img/ac1.jpg", "img/ad1.jpg","img/ae1.jpg",
         "3"
     ],
 
