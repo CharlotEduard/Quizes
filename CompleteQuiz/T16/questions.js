@@ -38,7 +38,7 @@ var questions = [
 
     [" (Famerp 2018)  A figura indica um prisma reto triangular e uma pirâmide regular de base quadrada. A altura desses sólidos, em relação ao plano em que ambos estão apoiados, é igual a   como indicam as figuras. Se os sólidos possuírem o mesmo volume, a aresta da base da pirâmide, em centímetros, será igual a:",
         "", "", "", "", "", "",
-        "img/img1.PNG", "img/img2.PNG", "img/img3.PNG", "img/img4.PNG", "img/img5.PNG", "",
+        "img/img1.png", "img/img2.png", "img/img3.png", "img/img4.png", "img/img5.png", "",
         "4"
 
     ],

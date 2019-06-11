@@ -2,7 +2,7 @@ var questions = [
 
     [" (Enem 2018)  O salto ornamental é um esporte em que cada competidor realiza seis saltos. A nota em cada salto é calculada pela soma das notas dos juízes, multiplicada pela nota de partida (o grau de dificuldade de cada salto). Fica em primeiro lugar o atleta que obtiver a maior soma das seis notas recebidas. O atleta 10 irá realizar o último salto da final. Ele observa no Quadro 1, antes de executar o salto, o recorte do quadro parcial de notas com a sua classificação e a dos três primeiros lugares até aquele momento.",
         "T1", "T2", "T3", "T4", "T5",
-        "img/questao1.1.PNG", "", "", "", "", "",
+        "img/questao1.1.png", "", "", "", "", "",
         "3"
 
     ],

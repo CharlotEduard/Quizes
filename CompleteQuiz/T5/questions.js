@@ -12,7 +12,7 @@ var questions = [
     ],
     ["(Fac. Albert Einstein - Medicin 2016)  A tabela seguinte permite exprimir os valores de certas grandezas em relação a um valor determinado da mesma grandeza tomado como referência. Os múltiplos e submúltiplos decimais das unidades do Sistema Internacional de Unidades (SI) podem ser obtidos direta ou indiretamente dos valores apresentados e têm seus nomes formados pelo emprego dos prefixos indicados. ",
         "a) X<500", "b) 500<X<1000", "c) 1000<X<1500", "d) X>1500", "e) nda",
-        "img/q3k.PNG", "", "", "", "","",
+        "img/q3k.png", "", "", "", "","",
         "2"
     ],
     ["(Espm 2015)  O valor de na equação 4^x+2*8^x=2^x é:  ",
@@ -22,7 +22,7 @@ var questions = [
     ],
     ["(Pucsp 2015)  Considere as seguintes afirmações:   ",
     "a) I, II e III são verdadeiras.   ", "b) apenas II e III são verdadeiras.   ", "c) apenas I e II são verdadeiras.   ", "d) apenas uma é verdadeira.   ", "e) I, II e III são falsas.   ",
-    "img/q5.PNG", "", "", "", "","",
+    "img/q5.png", "", "", "", "","",
     "2"
     ],
     ["(Insper 2014)  Sendo x e y dois números reais não nulos, a expressão (x^-2+y^-2)^-1  é equivalente a  ",
