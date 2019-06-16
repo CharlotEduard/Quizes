@@ -39,7 +39,7 @@ function quit() {
     localStorage.setItem("T1", (f * 100));
 
     //redireciona para a pagina home
-    window.location.replace("www.quiz.matematicaaovivo.com");
+    window.location.replace("../index.html");
 }
 
 function give_ques(quesindex) {
