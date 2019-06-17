@@ -37,7 +37,7 @@ function quit() {
     localStorage.setItem("T15", (f * 100));
 
     //redireciona para a pagina home
-    window.location.replace("/Quizes/index.html");
+    window.location.replace("http://www.quiz.matematicaaovivo.com/");
 }
 
 function give_ques(quesindex) {

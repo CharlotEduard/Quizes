@@ -75,7 +75,7 @@ function quit() {
 
     //redireciona para a pagina home
 
-    window.location.replace("/Quizes/index.html");
+    window.location.replace("http://www.quiz.matematicaaovivo.com/");
 }
 
 
